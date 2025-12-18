@@ -1,0 +1,7 @@
+{
+  "name": "book-agent",
+  "version": "1..0",
+  "scripts": {
+    "start": "ts-node src/book-recommendation-agent.ts"
+  }
+}
