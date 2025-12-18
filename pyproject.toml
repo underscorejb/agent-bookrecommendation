@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agent-bookrecommendation"
+version = "1.0.0"
+description = "AI Book Recommendation Repo"
+authors = [{name="Jacob Buaful Jr.", email="jbuafuljr@gmail.com"}]
+dependencies = ["requests>=2.31.0"]
