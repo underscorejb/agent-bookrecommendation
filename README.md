@@ -55,10 +55,15 @@ Save a "books.json" file:
 ### Example Interaction
 ```console 
 $ npm run start
+
 📚 Book Recommendation Agent
+
 You: Recommend a fantasy book
+
 Agent: Looking for fantasy books...
+
 Based on our collection, I recommend "The Name of the Wind" by Patrick Rothfuss (2007). It's a beautifully written fantasy epic about a legendary figure recounting his origin story.
+
 You: exit
 ```
 

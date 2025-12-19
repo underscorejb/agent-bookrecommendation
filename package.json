@@ -1,7 +1,16 @@
 {
-  "name": "book-agent",
-  "version": "1..0",
+  "name": "book-recommendation-agent",
+  "version": "1.0.0",
   "scripts": {
-    "start": "ts-node src/book-recommendation-agent.ts"
+    "start": "npx ts-node src/book_recommendation_agent/src/book_recommendation_agent.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@ai-sdk/vercel": "^1.0.30",
+    "ai": "^5.0.115"
   }
 }

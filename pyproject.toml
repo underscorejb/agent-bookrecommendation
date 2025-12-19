@@ -8,3 +8,6 @@ version = "1.0.0"
 description = "AI Book Recommendation Repo"
 authors = [{name="Jacob Buaful Jr.", email="jbuafuljr@gmail.com"}]
 dependencies = ["requests>=2.31.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
