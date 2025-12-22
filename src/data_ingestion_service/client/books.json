@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "first_publish_year": 1900,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Adventures of Sherlock Holmes [12 stories]",
+      "author": "Arthur Conan Doyle",
+      "first_publish_year": 1892,
+      "subject": "mystery"
+    },
+    {
+      "title": "The Man Who Was Thursday",
+      "author": "Gilbert Keith Chesterton",
+      "first_publish_year": 1908,
+      "subject": "mystery"
+    }
+  ]
+}
