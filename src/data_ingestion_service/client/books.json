@@ -1,0 +1,154 @@
+{
+  "books": [
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "first_publish_year": 1865,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1899,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "first_publish_year": 1880,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "first_publish_year": 1726,
+      "subject": "fantasy"
+    },
+    {
+      "title": "A Midsummer Night's Dream",
+      "author": "William Shakespeare",
+      "first_publish_year": 1600,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccol\u00f2 Machiavelli",
+      "first_publish_year": 1515,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Through the Looking-Glass",
+      "author": "Lewis Carroll",
+      "first_publish_year": 1865,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "first_publish_year": 1908,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Five Children and It",
+      "author": "Edith Nesbit",
+      "first_publish_year": 1905,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Lost World",
+      "author": "Arthur Conan Doyle",
+      "first_publish_year": 1900,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Marvelous Land of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1904,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Ozma of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1907,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Emerald City of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1910,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Dorothy and the Wizard in Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1908,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Lost Princess of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1917,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Story of the Amulet",
+      "author": "Edith Nesbit",
+      "first_publish_year": 1905,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Complete Life and Adventures of Santa Claus",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1902,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Alice's Adventures in Wonderland / Through the Looking Glass",
+      "author": "Lewis Carroll",
+      "first_publish_year": 1889,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Road to Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1909,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "first_publish_year": 1949,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Sea Fairies",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1911,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Baum's American Fairy Tales",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1901,
+      "subject": "fantasy"
+    },
+    {
+      "title": "Sky Island",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1912,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Scarecrow of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1915,
+      "subject": "fantasy"
+    },
+    {
+      "title": "The Patchwork Girl of Oz",
+      "author": "L. Frank Baum",
+      "first_publish_year": 1913,
+      "subject": "fantasy"
+    }
+  ]
+}

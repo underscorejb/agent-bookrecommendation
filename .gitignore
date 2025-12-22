@@ -1,0 +1,17 @@
+#General
+.env
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node/TypeScript
+node_modules/
+dist/
+
+# OS / IDE
+.DS_Store
+.vscode/
