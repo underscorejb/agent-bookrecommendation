@@ -6,11 +6,15 @@
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
+    "@vitest/spy": "^4.0.16",
     "ts-node": "^10.9.2",
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "vitest": "^4.0.16"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^2.0.88",
     "@ai-sdk/vercel": "^1.0.30",
-    "ai": "^5.0.115"
+    "ai": "^5.0.116",
+    "dotenv": "^17.2.3"
   }
 }

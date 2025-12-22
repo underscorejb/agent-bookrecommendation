@@ -1,9 +1,12 @@
+#General
+.env
+env/
+.venv/
+
 # Python
 __pycache__/
 *.pyc
 *.pyo
-.venv/
-env/
 
 # Node/TypeScript
 node_modules/
