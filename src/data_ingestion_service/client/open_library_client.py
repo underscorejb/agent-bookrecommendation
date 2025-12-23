@@ -24,6 +24,7 @@ def transform_to_books_format(data: dict, subject: str) -> dict:
                 "author": (work.get("authors") or [{}])[0].get("name"),
                 "first_publish_year": work.get("first_publish_year"),
                 "subject": subject,
+                "cover_i": work.get("cover_id"),
             }
             for work in data.get("works", [])
             if work.get("title")
